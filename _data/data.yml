@@ -1,0 +1,130 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Valeria Grandi
+    tagline: Desarrolador
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: valeriagrandi@hotmail.com
+    phone: 2478-444436
+    
+   
+    languages:
+      - idiom: Español
+        level: Native
+
+      - idiom: Inglés 
+        level: Intermedio
+
+      - idiom: Portugues
+        level: Intermedio
+
+
+career-profile:
+    title: Datos personales
+    summary: |
+      - Nacida el 16/09/1980
+      - Estado civil: concubinato
+      - Hijos: 1
+      - Lugar de nacimiento: Capitán Sarmiento
+      - Nacionalidad Argentina
+
+experiences:
+    - role: Repartidor
+      time: 2014 -2014
+      company: Cablevisión Fibertel
+      details: |
+        Juan Manuel de Rosas 285
+        Capitán Sarmiento
+   
+
+    - role: Tareas administrativas
+      time: 2007-2008 
+      company: Farmacia Modelo de Giles	
+      details: |
+        Moreno 620(San Andrés de Giles)
+        Tel 02325-444209 
+
+         
+
+    - role: Dueña
+      time: 2005-2007
+      company: Gestoría Integral ¨VG¨
+      details: |
+        Trámites del automotor, monotributo.
+        9 de Julio s/n. San Andrés de Giles.
+
+projects:
+    title: Educacion 
+    intro: >
+
+    title: Educacion 
+    intro: >
+     
+    assignments:
+      - title: Estudio Universitario Actual
+        
+        tagline: "Estudiante 3° año Tecnicatura Universitaria en Programación Informática
+        Universidad de Quilmes"
+
+      - title: Estudio Universitario Concluido
+        
+        tagline: "Técnica Universitaria En Gestión de Empresas Agropecuarias.
+        Universidad Blas Pascal
+        Año de egreso: 2010"
+
+      - title: Estudios Universitario no concluido
+        
+        tagline: "Licenciatura en Administración de Empresas
+        Universidad Nacional de Luján
+        Tel. 02323-423171
+        Intersección rutas 5 y 7.Luján. Bs.  As."
+
+      - title: Estudios Secundarios
+        
+        tagline: "Bachiller en Gestión y Administración
+        Esc. Educación Media Nº 1 Dr. Mateo  Vicente Jelicich
+        Guido Lucotti 757
+        Tel. 02478-481768
+        Capitán Sarmiento (Bs. As.)"
+
+      - title: Estudios Complemantarios
+        
+        tagline: "Técnico en liquidación de sueldo y cargas sociales (IDIIP)
+      -Mandataria Nacional del registro del automotor y créditos prendarios.
+      -Curso de Manipulación de alimentos (Centro de Formación profesional).
+      -Curso de Portugués, duracion 1 año (Centro de Formación profesional)."
+
+
+
+skills:
+    title: Habilidades y competencias
+
+    toolset:
+      - name: Androide
+        level: 80%
+
+      - name: Javascript 
+        level: 80%
+
+      - name: Git, GitLab, GitHub
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: Visual Studio Code
+        level: 80%
+
+      - name: Mysql
+        level: 80%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
